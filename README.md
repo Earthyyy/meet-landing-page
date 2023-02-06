@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Meet landing page by Earthyy](https://your-live-site-url.com)
+- Live Site URL: [Meet landing page by Earthyy](https://earthyy-meet-landing-page.netlify.app/)
 
 ## My process
 
